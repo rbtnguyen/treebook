@@ -1,5 +1,11 @@
 jeff:
   first_name: "jeff"
   last_name: "jefferson"
-  profile_name: "jeff"
+  profile_name: "jeffyguy"
   email: "jeff@jeff.com"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
