@@ -3,5 +3,3 @@ jeff:
   last_name: "jefferson"
   profile_name: "jeff"
   email: "jeff@jeff.com"
-  password: "password"
-  password_confirmation: "password"
