@@ -1,5 +1,5 @@
 == README
 
-Rails work in progress, currently statuses:
+Rails work in progress: sign up, login, verification, display current statuses:
 
 Live Demo: http://secret-hollows-2102.herokuapp.com
