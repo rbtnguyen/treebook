@@ -2,4 +2,4 @@
 
 Rails work in progress, currently statuses:
 
-Live Demo: http://www.secret-hollows-2102.herokuapp.com/
+Live Demo: http://secret-hollows-2102.herokuapp.com
